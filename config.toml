@@ -1,0 +1,37 @@
+baseURL = "http://nedumgottil.com/"
+languageCode = "en-us"
+title = "Anthony Nedumgottil's Site"
+theme = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Call me Anthony - A personal site built with [Hugo](https://gohugo.io/)."
+
+# Metadata for Open Graph and Twitter
+    description          = "Anthony's Personal Site"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Anthony"
+    
+[[params.mainMenu]]
+    link = "/posts"
+    text = "blog"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "gallery"
+
+# [[params.mainMenu]]
+#     link = "/portfolio"
+#     text = "portfolio"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who am I?"
+
+[imaging]
+    quality = 100
