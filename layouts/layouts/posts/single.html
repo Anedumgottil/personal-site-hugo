@@ -1,0 +1,24 @@
+{{ define "section_content" }}
+<div class="section" id="content">
+    {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183; {{ .WordCount }} words
+    <div class="tag-container">
+        {{ range $term := .Params.tags }}
+        {{ with $.Site.GetPage (printf "/%s/%s" "tags" $term | urlize) }}
+        <span class="tag">
+            <a href="{{ .RelPermalink }}">
+                {{ $term }}
+            </a>
+        </span>
+        {{ end }}
+        {{ end }}
+    </div>
+    <hr/>
+    {{ .Content }}
+</div>
+{{ end }}
+
+{{ define "bottom-menu" }}
+<div class="section bottom-menu">
+    {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+</div>
+{{ end }}
