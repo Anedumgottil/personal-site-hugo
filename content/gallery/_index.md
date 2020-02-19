@@ -1,5 +1,5 @@
 ---
-title: "Photos from here"
+title: "Photos from Chicago"
 type: "gallery"
 url: "/gallery"
 maxWidth: "1200x"

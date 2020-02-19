@@ -31,7 +31,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who am I?"
+    text = "about me"
 
 [imaging]
     quality = 100
