@@ -28,4 +28,4 @@ Pat the short ribs dry after marindating and broil on high for 4-6 mins on each 
 Let it rest and then enjoy.
 
 
-[Picutre comming soon]
+[Picture comming soon]
