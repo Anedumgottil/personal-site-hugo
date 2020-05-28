@@ -30,4 +30,6 @@ Now there are some hurdles you and I must face when planning for our retirement.
 * Learn to plan long term - It's hard planning for the future, [it's just how our brains are wired](https://www.npr.org/templates/story/story.php?storyId=5530483)! Planning for your retirement is as long term as it gets but don't let that stop you. You might see your assets drop in value in the short term but since you're reading this you're on the right path.  
 * Beware of "Free Lunch" - On your journey through life, many people will approach you trying to get you to invest in this once in a life time opportunity. They will come to you promising an easy way to get rich, this opportunity will give you 10x returns! Even if these people are your friends and family, make sure you say no. There is no such thing as a secret unicorn investment. Just like a work out routine, you should follow a financial routine and ignore these shortcuts. 
 
+Overcoming these hurdles might seem daunting at first but I know you and I can both overcome them together.
 
+Let's go forth and retire comfortably! 
