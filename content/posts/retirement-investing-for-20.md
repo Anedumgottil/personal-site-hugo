@@ -21,7 +21,9 @@ If You Can : save 15% of your paycheck into your your IRA and distribute it even
 
 Once a year check the valuations of these 3 categories and adjust them to be at equal amounts. These will all grow at various rates so we must adjust the amount once a year. 
 
-You may ask me, "I've been told that Buying low and Selling high is how to make money while investing! Wont my asset value drop?". (Actually check if this is the same thing as Dollar-Cost investing It might not be)
+You may ask me, "I've been told that Buying low and Selling high is how to make money while investing! Wont my asset value drop?". Well that's fine, we're planning on investing for 40 years in the future. This strategy has worked for John Bogle, in fact this strategy is similar to [his](https://en.wikipedia.org/wiki/John_C._Bogle#Investment_philosophy).
+
+
 
 Now there are some hurdles you and I must face when planning for our retirement.
 * Control your spending - It's very easy to spend that 15% of your paycheck elsewhere if you do not have tight control over your budget and lets be honest, it's hard to stick to your budget in your 20s. I suggest setting up a transfer through your payroll portal to automatically take out that 15% from each paycheck. If the money isn't directly in your bank account you have less of an attachment to that money. 
