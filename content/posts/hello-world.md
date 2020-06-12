@@ -11,4 +11,4 @@ I've just started a new site using Hugo.
 
 Hopefully, i'll write down more of my ramblings here rather than keeping them in my head.
 
-Same goes for my recipies.
+Same goes for my recipes.

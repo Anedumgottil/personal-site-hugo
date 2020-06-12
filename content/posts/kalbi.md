@@ -14,18 +14,18 @@ Here's my recipe for LA Kalbi
 * 1/4 cup water
 * 1/8 cup Sprite 
 * 1/8 cup mirin
-* 1 tbs seasame oil 
+* 1 tbs sesame oil 
 * 1/4 tsp black pepper
 * 1/4 tsp white pepper
 * Chopped slivers of white onion
 * Minced garlic to taste
-#### Optional Subisitutions 
+#### Optional Substitutions 
 * Swap Sprite for Asian Pear or Kiwis
 
 Let marinade for 4-12 hours, the longer the better.
-Pat the short ribs dry after marindating and broil on high for 4-6 mins on each side. 
+Pat the short ribs dry after marinating and broil on high for 4-6 mins on each side. 
 
 Let it rest and then enjoy.
 
 
-[Picture comming soon]
+[Picture coming soon]
