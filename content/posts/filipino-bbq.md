@@ -12,10 +12,10 @@ Here's my recipe for Filipino style BBQ Pork
 * 4 lbs of boneless Pork Shoulder
 * 1/2 cup of Toyomansi 
 * 1/2 cup Banana Ketchup
-* 1/2 cup of brown surgar
+* 1/2 cup of brown sugar
 * 8 oz of 7up 
 * 1 tsp of minced garlic
-* 1 tsp of seasame oil 
+* 1 tsp of sesame oil 
 * 1 tsp black pepper
 * (n) Bamboo skewers
 
@@ -27,6 +27,6 @@ Preheat the oven to 375°F, place the skewered meat on a wire rack and into the 
 
 Broil on high for 4-6 min each side.
 
-Servce with white rice.
+Serve with white rice.
 
-[Picture comming soon]
+[Picture coming soon]

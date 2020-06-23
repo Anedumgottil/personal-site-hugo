@@ -15,7 +15,7 @@ pygmentsCodefences       = true
 # Metadata for Open Graph and Twitter
     description          = "Anthony's Personal Site"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Anthony"
+    title                = "Anthony"
     
 [[params.mainMenu]]
     link = "/posts"

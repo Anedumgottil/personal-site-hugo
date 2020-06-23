@@ -6,7 +6,7 @@ draft: true
 tags: ["Cooking","Recipes","Tacos", "Al Pastor", "Pork"]
 ---
 
-Here's my recipe for Al Pastor, this recipe has been influced by Rick Bayless.
+Here's my recipe for Al Pastor, this recipe has been influenced by Rick Bayless.
 
 ### Ingredients
 *  3 1/2 oz package achiote marinade
