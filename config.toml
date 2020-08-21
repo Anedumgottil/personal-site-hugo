@@ -1,7 +1,7 @@
 baseURL = "https://nedumgottil.com"
 languageCode = "en-us"
 title = "Anthony Nedumgottil's Site"
-theme = "sam"
+theme = ["sam","hugo-shortcode-gallery"]
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 
@@ -16,7 +16,7 @@ pygmentsCodefences       = true
     description          = "Anthony's Personal Site"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Anthony"
-    
+
 [[params.mainMenu]]
     link = "/posts"
     text = "blog"
@@ -35,3 +35,6 @@ pygmentsCodefences       = true
 
 [imaging]
     quality = 100
+
+[imaging.exif]
+    includeFields = ".*"
