@@ -4,7 +4,7 @@ title = "Anthony Nedumgottil's Site"
 theme = ["sam","hugo-shortcode-gallery"]
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-
+timeout = 60000
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
@@ -38,3 +38,4 @@ pygmentsCodefences       = true
 
 [imaging.exif]
     includeFields = ".*"
+timeout = 60000
