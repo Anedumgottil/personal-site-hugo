@@ -14,7 +14,7 @@ The first step is to open a [Roth IRA](https://en.wikipedia.org/wiki/Roth_IRA), 
 
 American financial theorist and neurologist William J. Bernstein, has laid out a simple strategy for what assets to invest in his book _"If You Can - How Millennials Can Get Rich Slowly"_ .
 
-If You Can : save 15% of your paycheck into your your IRA and distribute it evenly into three categories.
+If You Can : save 15% of your paycheck into your IRA and distribute it evenly into three categories.
 * Category 1 : U.S. Total Stock Market Index Fund.
 * Category 2 : International Total Stock Market Index Fund.
 * Category 3 : U.S. Total Bond Market Index Fund. 
