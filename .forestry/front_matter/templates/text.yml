@@ -11,3 +11,5 @@ fields:
 - type: boolean
   name: showDate
   label: showDate
+pages:
+- content/posts/spacs-what-are-they.md
