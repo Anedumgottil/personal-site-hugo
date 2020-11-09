@@ -13,4 +13,6 @@ This is a beneficial move for both parties involved, the SPAC gets an investment
 
 This all sounds like rainbows and sunshine right?? What could possibly be bad about this?
 
-Companies merging through a SPAC do not have to go through the full SEC Due Diligence that it would have if it went with the IPO route. This allows for more retail investors to jump in and 
+Companies merging through a SPAC do not have to go through the full SEC Due Diligence that it would have if it went with the IPO route.
+
+ This allows for more retail investors to jump in early in the investment life cycle. 
