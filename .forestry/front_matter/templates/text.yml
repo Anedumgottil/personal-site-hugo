@@ -12,4 +12,5 @@ fields:
   name: showDate
   label: showDate
 pages:
+- content/posts/how-i-built-this-site.md
 - content/posts/spacs-what-are-they.md
