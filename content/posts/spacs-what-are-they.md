@@ -16,6 +16,6 @@ This all sounds like rainbows and sunshine right?? What could possibly be bad ab
 
 Companies merging through a SPAC do not have to go through the full SEC Due Diligence that it would have if it went with the IPO route.
 
-Hydrogen Truck maker [Nikola is under investigation by the SEC](https://www.thestreet.com/investing/nikola-shares-slump-amid-sec-probe-into-short-seller-claims) for claims of fraud. 
+Hydrogen Truck maker [Nikola is under investigation by the SEC](https://www.thestreet.com/investing/nikola-shares-slump-amid-sec-probe-into-short-seller-claims) for claims of fraud.
 
-Personally, I'm exited to see how a lot of companies go public through a SPAC turn out. 
+Personally, I'm exited to see how a lot of companies go public through a SPAC turn out. If you're interested, there's a more detailed write up [here](https://www.reddit.com/r/SPACs/wiki/index).
