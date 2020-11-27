@@ -13,4 +13,5 @@ fields:
   label: showDate
 pages:
 - content/posts/how-i-built-this-site.md
+- content/posts/soil-mousture-sensor-for-plants.md
 - content/posts/spacs-what-are-they.md
