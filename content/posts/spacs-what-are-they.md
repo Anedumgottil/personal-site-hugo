@@ -18,4 +18,6 @@ Companies merging through a SPAC do not have to go through the full SEC Due Dili
 
 Hydrogen Truck maker [Nikola is under investigation by the SEC](https://www.thestreet.com/investing/nikola-shares-slump-amid-sec-probe-into-short-seller-claims) for claims of fraud.
 
+There could be issues with the SPAC company itself not providing a good merger for the target company. The stakeholders of the SPAC need to vote on the approval of the target company for there to be a merger. 
+
 Personally, I'm exited to see how a lot of companies go public through a SPAC turn out. If you're interested, there's a more detailed write up [here](https://www.reddit.com/r/SPACs/wiki/index).
