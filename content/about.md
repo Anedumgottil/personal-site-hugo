@@ -9,8 +9,8 @@ I'm currently a Software Engineer at [Vail Systems](https://www.vailsys.com/) wo
 
 [Resume/CV](https://drive.google.com/open?id=1JPxz-c8tkPpEfRc0zKCboDLx6hVk3y7l)
 
-While im not working, I like to take portraits and landscape shots.
+While i'm not working, I like to take portraits and landscape shots.
 
-I have a strong passion and intrigue of Finance and History.  
-  
-I'm disclosing all of the current equities I hold [here](https://docs.google.com/spreadsheets/d/1b3zrLSM4PTw7Hc83rMgnzbVLScnV2L34L_02Nxynpj8/edit?usp=sharing), if you have any questions email me at anth0ny@hey.com 
+I have a strong passion and intrigue of Finance and History.
+
+If you have any questions email me at anth0ny@hey.com
