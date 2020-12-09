@@ -4,7 +4,7 @@ showDate = true
 title = "How I Built This Site "
 
 +++
-Now more than ever, it's easier and cheaper to host your own personal website. I'll \[list out\] what I used and how I build this site.
+Now more than ever, it's easier and cheaper to host your own personal website. I'll list out what I used and how I build this site.
 
 ## Hugo - Static Site Framework
 
@@ -34,12 +34,14 @@ Here is my build command for this site, you can configure this in the settings t
 
 After your site successfully deploys, you can go into the settings under Custom Domains to find your site. it should follow the https://<RENDER-PROJECT-NAME>.onrender.com pattern.
 
-## Forestry &  Headless CMS 
+## Forestry &  Headless CMS
 
 Think of a Headless CMS as an admin-zone where you can manage all of the static content on your site.
 
-We don't need to be coupled to WordPress and PHP with the rise of Headless CMS solutions, we can swap between CMS and front-end tempting solutions as we please. 
+We don't need to be coupled to WordPress and PHP with the rise of Headless CMS solutions, we can swap between CMS and front-end tempting solutions as we please.
 
 I have found [Forestry.io]( "https://forestry.io/") to be pretty compelling with it's very straight forward and easy to use UI.
 
 All you need to do is connect this to your Git repo and you're ready to edit your site's content.
+
+I'm writing this through Forestry right now.
